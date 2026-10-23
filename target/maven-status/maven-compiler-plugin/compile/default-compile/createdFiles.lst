@@ -1,0 +1,8 @@
+com\example\proyecto10\Proyecto10Application.class
+com\example\proyecto10\controller\ProductoController.class
+com\example\proyecto10\dao\ProductoDao.class
+com\example\proyecto10\service\ProductoService.class
+com\example\proyecto10\dao\ProductoRepository.class
+com\example\proyecto10\service\impl\ProductoServiceImpl.class
+com\example\proyecto10\dao\ProductoDaoImpl.class
+com\example\proyecto10\model\Producto.class
